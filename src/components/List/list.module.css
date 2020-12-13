@@ -1,0 +1,25 @@
+.card {
+  border: solid black 2px;
+  margin: 2px;
+  font-size: large;
+  width: 70px
+}
+
+.board {
+  display: flex;
+  word-wrap: wrap;
+}
+
+.list {
+  display: flex;
+}
+
+.block {
+  display: flex;
+}
+
+.test {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
